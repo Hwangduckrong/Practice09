@@ -40,7 +40,7 @@ public class Friend {
     public void draw() {
     	System.out.println("이름:  "+name+" 핸드폰:  "+hp+" 학교:  "+school);
     }
-8
+
 
 
 }
